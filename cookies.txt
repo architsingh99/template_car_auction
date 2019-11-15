@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ibid.modeltheme.com	TRUE	/automotive/	FALSE	1999999999	yith_wcwl_products	%5B%7B%22prod_id%22%3A%224450%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222019-11-15+17%3A53%3A42%22%7D%2C%7B%22prod_id%22%3A%224331%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222019-11-15+17%3A54%3A09%22%7D%2C%7B%22prod_id%22%3A%224473%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222019-11-15+17%3A54%3A24%22%7D%2C%7B%22prod_id%22%3A%224463%22%2C%22quantity%22%3A1%2C%22wishlist_id%22%3Afalse%2C%22dateadded%22%3A%222019-11-15+17%3A54%3A44%22%7D%5D
+ibid.modeltheme.com	TRUE	/	FALSE	1999999999	redux_blast	1573839315
+ibid.modeltheme.com	TRUE	/	FALSE	1999999999	dokan_product_viewed	4331%2C4450%2C4452%2C4458%2C4472%2C4471%2C4469%2C4473%2C4462%2C4463%2C4461%2C4451
+
