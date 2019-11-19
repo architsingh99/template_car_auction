@@ -1,0 +1,125 @@
+      .fixed-sidebar-menu {
+            background-color: #487485;
+        }
+
+        #navbar .menu-item>a,
+        .navbar-nav .search_products a,
+        .navbar-default .navbar-nav>li>a {
+            color: #ffffff;
+        }
+
+        #navbar .menu-item>a:hover,
+        #navbar .menu-item>a:focus,
+        .navbar-nav .search_products a:hover,
+        .navbar-nav .search_products a:focus,
+        .navbar-default .navbar-nav>li>a:hover,
+        .navbar-default .navbar-nav>li>a:focus {
+            color: #ffffff;
+        }
+
+        #navbar .sub-menu,
+        .navbar ul li ul.sub-menu {
+            background-color: #FFFFFF;
+        }
+
+        #navbar ul.sub-menu li a {
+            color: #484848;
+        }
+
+        #navbar ul.sub-menu li a:hover {
+            background-color: #FFFFFF;
+        }
+
+        #navbar ul.sub-menu li a:hover {
+            color: #ee964b;
+        }
+
+        body {
+            font-family: Montserrat;
+        }
+
+        h1,
+        h1 span {
+            font-family: Montserrat;
+            line-height: 36px;
+            color: #242424;
+            font-size: 36px;
+        }
+
+        h2 {
+            font-family: Montserrat;
+            line-height: 30px;
+            color: #242424;
+            font-size: 30px;
+        }
+
+        h3,
+        .post-name {
+            font-family: Montserrat;
+            line-height: 24px;
+            color: #242424;
+            font-size: 24px;
+        }
+
+        h4 {
+            font-family: Montserrat;
+            line-height: 18px;
+            color: #242424;
+            font-size: 18px;
+        }
+
+        h5 {
+            font-family: Montserrat;
+            line-height: 14px;
+            color: #242424;
+            font-size: 14px;
+        }
+
+        h6 {
+            font-family: Montserrat;
+            line-height: 12px;
+            color: #242424;
+            font-size: 12px;
+        }
+
+        input,
+        textarea {
+            font-family: Montserrat;
+        }
+
+        input[type="submit"] {
+            font-family: Montserrat;
+        }
+
+        .top-header {
+            background-color: #ffffff;
+        }
+
+        .navbar-default {
+            background-color: #ffffff;
+        }
+
+        .container.footer-top,
+        .prefooter .container {
+            padding-top: 90px;
+            padding-bottom: 80px;
+        }
+
+        footer {
+            background-color: #ffffff;
+        }
+
+        footer .footer {
+            background-color: #f8f8f8;
+        }
+
+        p {
+            font-family: Montserrat;
+            font-weight: normal;
+        }
+    </style><noscript>
+        <style>
+            .wpb_animate_when_almost_visible {
+                opacity: 1;
+            }
+        
